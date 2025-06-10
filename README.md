@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Hermain! <br/><a href="https://github.com/hermainmirza">Web Developer</a>, <a href="https://www.linkedin.com/in/hermain-mirza/"></a>
+<h1>Hi, I'm Hermain! <br/><a href="https://github.com/hermainmirza">Web Developer</a> <a href="https://www.linkedin.com/in/hermain-mirza/"></a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
